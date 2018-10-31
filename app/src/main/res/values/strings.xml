@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Call-SMS-Email</string>
+
+
+    <string name="tab_text_1">Call</string>
+    <string name="tab_text_2">SMS</string>
+    <string name="tab_text_3">Email</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
